@@ -4,11 +4,7 @@
 
 ## 在线预览
 
-部署后可填写：
-
-```text
-https://your-demo-url.example.com
-```
+[https://lz123-ai.github.io/daily-music-mobile-demo/](https://lz123-ai.github.io/daily-music-mobile-demo/)
 
 ## 项目亮点
 
